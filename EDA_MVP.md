@@ -14,6 +14,8 @@ The graph shows that the Bronx and Brooklyn Boroughs have the lowest median inco
 
 I will then, use MTA data to analyse which stations among Bronx and Brooklyn boroughs are the busiest.
 
+https://github.com/ApoorvaSetu/Metis-EDA-Project/blob/master/Turnstile_data_EDA.ipynb
+
 
 
 
