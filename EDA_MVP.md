@@ -8,9 +8,12 @@ I started off with analysing the census data and got the following result:
 
 https://github.com/ApoorvaSetu/Metis-EDA-Project/blob/master/census.png
 
+https://github.com/ApoorvaSetu/Metis-EDA-Project/blob/master/Census_Data_EDA.ipynb
+
 The graph shows that the Bronx and Brooklyn Boroughs have the lowest median income among the other Boroughs. 
 
 I will then, use MTA data to analyse which stations among Bronx and Brooklyn boroughs are the busiest.
+
 
 
 
